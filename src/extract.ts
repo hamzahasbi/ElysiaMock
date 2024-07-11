@@ -9,7 +9,6 @@ export const prepare = async () => {
 
     const uri = file.replaceAll('-', '/').replaceAll('_', '/:').replaceAll('$', '_').replaceAll(".json", "");
     const content = await input.json();
-    console.log(uri);
     endpoints[uri] = content;
   }
   return endpoints;

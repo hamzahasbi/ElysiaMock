@@ -1,0 +1,104 @@
+{
+	"pointOfSales": [
+		{
+			"id": "7700216174",
+			"name": "JUMIA ECOM",
+			"status": "Y"
+		},
+		{
+			"id": "0220090088",
+			"name": "CHOCOLUX JEFF DE",
+			"status": "Y"
+		},
+		{
+			"id": "9900517484",
+			"name": "SOFITEL RESTAURANT G",
+			"status": "Y"
+		},
+		{
+			"id": "9900075491",
+			"name": "BIM SIDI MOUMEN",
+			"status": "Y"
+		},
+		{
+			"id": "9900190670",
+			"name": "POWER FOOD",
+			"status": "Y"
+		},
+		{
+			"id": "9900009540",
+			"name": "L ARGANIER  D OR",
+			"status": "Y"
+		},
+		{
+			"id": "9900555237",
+			"name": "IBIS CASANEARSHORE G",
+			"status": "Y"
+		},
+		{
+			"id": "9900137218",
+			"name": "REST CASA GARCIA",
+			"status": "Y"
+		},
+		{
+			"id": "9900136103",
+			"name": "ELECTROPLANET MEDIA G",
+			"status": "Y"
+		},
+		{
+			"id": "9900167785",
+			"name": "PHCIE DU MALL M.M",
+			"status": "Y"
+		},
+		{
+			"id": "9900033458",
+			"name": "HERTZ MAROC APT MKCH",
+			"status": "Y"
+		},
+		{
+			"id": "9900824070",
+			"name": "THY MARRAKECH",
+			"status": "Y"
+		},
+		{
+			"id": "Test",
+			"status": "N"
+		},
+		{
+			"id": "test",
+			"status": "N"
+		},
+		{
+			"id": "0070015541",
+			"status": "N"
+		},
+		{
+			"id": "909797070676",
+			"status": "N"
+		},
+		{
+			"id": "0070015545",
+			"status": "N"
+		},
+		{
+			"id": "2",
+			"status": "N"
+		},
+		{
+			"id": "3",
+			"status": "N"
+		},
+		{
+			"id": "11",
+			"status": "N"
+		},
+		{
+			"id": "1",
+			"status": "N"
+		},
+		{
+			"id": "58",
+			"status": "N"
+		}
+	]
+}

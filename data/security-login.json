@@ -1,0 +1,15 @@
+{
+	"email": "hriri@cmi.co.ma",
+	"id": "hriri@cmi.co.ma",
+	"roles": ["AFFILIE"],
+	"seller": {
+		"id": "646",
+		"name": "Test_CMI_TEST",
+		"company": "test_CMI"
+	},
+	"token": {
+		"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJDTUktVGVjaCIsImV4cCI6MTcxODMwNDEyMiwiY29uc3VtZXIiOiJ7XCJlbWFpbFwiOlwiaHJpcmlAY21pLmNvLm1hXCIsXCJpZFwiOlwiaHJpcmlAY21pLmNvLm1hXCIsXCJyb2xlc1wiOltcIkFGRklMSUVcIl0sXCJzZWxsZXJcIjp7XCJpZFwiOlwiNjQ2XCIsXCJuYW1lXCI6XCJUZXN0X0NNSV9URVNUXCIsXCJjb21wYW55XCI6XCJ0ZXN0X0NNSVwifX0ifQ.qJkqSjk0BSOJsRbH1amHJGxdKYxrzvA-1NPd9H2-6E03cPSdWCLhJOBEbK4du9FJtz1iDgIOauYf32M0EuKWdA",
+		"expiresAt": "2024-06-13T19:42:02Z",
+		"age": 480
+	}
+}

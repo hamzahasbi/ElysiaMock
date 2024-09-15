@@ -51,5 +51,5 @@ OR simply use Docker
 
 To learn more about Bun and Elysia, check out the following resources:
 
-[Bun Documentation](https://bun.sh/)
-[Elysia Documentation](https://elysiajs.com/)
+* [Bun Documentation](https://bun.sh/)
+* [Elysia Documentation](https://elysiajs.com/)
